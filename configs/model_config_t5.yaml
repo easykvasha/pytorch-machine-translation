@@ -1,0 +1,6 @@
+---
+embedding_size: 256
+hidden_size: 256
+learning_rate: 0.001
+epoch_num: 500
+try_one_batch: False
